@@ -1,0 +1,64 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+h1{
+    margin: auto;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1::first-letter{
+    font-size: 2em;
+}
+h4{
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#img1{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+hr{
+    color: yellowgreen;
+}
+
+#box2{
+    background-color: ivory;
+    width: 400px;
+    height: 500px;
+    border: solid 2px aliceblue ;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    overflow: scroll;
+    position: relative;
+    left: 530px;
+    top: 25px;
+}
+pre{
+    color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    
+}
+button{
+    margin-top: 30px;
+    font-size: 25;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    border: solid, 2px, whitesmoke;
+}
+button:hover{
+    background-color: blue;
+    font: bold;
+    font-size: 1.1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: ivory;
+    size: 30px;
+    border: solid, 2px, whitesmoke;
+}
