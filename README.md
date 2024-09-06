@@ -1,2 +1,2 @@
 # Google-Homepage-Clone
-This is my first project. I made this using HTML and CSS.
+This is my first project. Its a clone of the google search homepage. I made this using HTML and CSS.
